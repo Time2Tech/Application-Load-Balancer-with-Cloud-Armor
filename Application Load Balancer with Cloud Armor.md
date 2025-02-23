@@ -1,6 +1,5 @@
-# HTTP Load Balancer with Cloud Armor || [GSP215](https://www.cloudskillsboost.google/focuses/1232?parent=catalog) ||
+# Application Load Balancer with Cloud Armor
 
-## Solution [here](https://youtu.be/1tftx_ftLLA)
 
 ### Run the following Commands in CloudShell
 ```
@@ -22,6 +21,3 @@ sudo chmod +x gsp215.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
